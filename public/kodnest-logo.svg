@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150" height="40" viewBox="0 0 150 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Yellow K shape -->
+  <path d="M0 20L8 12L16 20L8 28L0 20Z" fill="#FDB813"/>
+  <!-- Text -->
+  <path d="M25 10H35V30H25V10Z" fill="black"/>
+  <path d="M40 15C40 12.2386 42.2386 10 45 10H55C57.7614 10 60 12.2386 60 15V25C60 27.7614 57.7614 30 55 30H45C42.2386 30 40 27.7614 40 25V15Z" fill="black"/>
+  <path d="M65 10H75V30H65V10Z" fill="black"/>
+  <path d="M80 15C80 12.2386 82.2386 10 85 10H95C97.7614 10 100 12.2386 100 15V25C100 27.7614 97.7614 30 95 30H85C82.2386 30 80 27.7614 80 25V15Z" fill="black"/>
+  <path d="M105 10H115V30H105V10Z" fill="black"/>
+  <path d="M120 15C120 12.2386 122.239 10 125 10H135C137.761 10 140 12.2386 140 15V25C140 27.7614 137.761 30 135 30H125C122.239 30 120 27.7614 120 25V15Z" fill="black"/>
+  <path d="M145 10H150V30H145V10Z" fill="black"/>
+</svg> 
