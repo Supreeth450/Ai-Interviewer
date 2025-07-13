@@ -27,9 +27,20 @@ A modern AI-powered face-to-face interview platform with video recording, transc
 
 3. Create a `.env.local` file in the root directory with the following environment variables:
    ```
+   gemini recommended and its free too any one among this is enough
    NEXT_PUBLIC_GEMINI_API_KEY=your_gemini_api_key
    NEXT_PUBLIC_COHERE_API_KEY=your_cohere_api_key
    NEXT_PUBLIC_RAPIDAPI_KEY=your_rapidapi_key
+
+   Users need to replace API keys in these files:  this is very necessary and important step
+   
+1. app/f2f-interview/page.tsx - Line 482: Replace the
+Gemini API key
+2. app/coding-round/page.tsx - Line 81: Replace the
+Gemini API key
+3. Environment Variables: Create a env. local file with:
+• NEXT_PUBLIC_COHERE_API_KEY=your_cohere_api_ke
+• NEXT_PUBLIC_RAPIDAPI_KEY=your_rapidapi_key
    ```
 
    - **Gemini API Key**: Get from [Google AI Studio](https://makersuite.google.com/app/apikey)

@@ -79,7 +79,7 @@ Do not provide the solution in your initial response. Make the problem challengi
   const sendMessageToGemini = async (userMessage: string) => {
     try {
       // Use the API key from .env.local file
-      const apiKey = "AIzaSyBBdRxxc4x6D67mtlQVhCgesirvm5zGcJs";
+      const apiKey = "";
       
       const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`, {
         method: 'POST',

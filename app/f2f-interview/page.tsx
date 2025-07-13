@@ -480,7 +480,7 @@ Corrected:`,
     setIsLoading(true);
     try {
       // Use the API key from .env.local file
-      const apiKey = "AIzaSyBBdRxxc4x6D67mtlQVhCgesirvm5zGcJs";
+      const apiKey = "";
       
       console.log("Sending request to Gemini API...");
       const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`, {
